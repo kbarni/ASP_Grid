@@ -1,3 +1,0 @@
-*.pro linguist-detectable=false
-*.sln linguist-detectable=false
-Makefile linguist-detectable=false
